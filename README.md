@@ -1,2 +1,1 @@
-# big-o-notation
-Notes about Big O Notation.
+# Big O Notation
