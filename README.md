@@ -15,5 +15,3 @@ Check the Big O Notation for each expression, and eventually add them up.
 - **Logarithmic Time O(log n):** Logarithmic time complexities usually apply to algorithms that divide problems in half every time.
 
 - **Exponential Time O(2^n):** Exponential (base 2) running time means that the calculations performed by an algorithm double every time as the input grows.
-
-- ****
